@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Sketch from "../threejs/SceneManager";
+import Sketch from "../threejs/ThreeApp";
 
 
 export default function ThreeContainer() {
